@@ -1,0 +1,5 @@
+﻿  review2_1_2.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\2주차\Week2\review2_1_2\review2_1_2.c(118,18): warning C4020: 'pop': 실제 매개 변수가 너무 많습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\2주차\Week2\review2_1_2\review2_1_2.c(119,18): warning C4020: 'pop': 실제 매개 변수가 너무 많습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\2주차\Week2\review2_1_2\review2_1_2.c(107,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  review2_1_2.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\자료구조\2주차\Week2\x64\Debug\review2_1_2.exe

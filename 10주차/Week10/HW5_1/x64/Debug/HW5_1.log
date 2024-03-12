@@ -1,0 +1,11 @@
+﻿  HW5_1.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(65,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(166,45): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(166,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(172,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(182,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(192,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(196,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(201,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(146,14): warning C4101: 'e5' :참조되지 않은 지역 변수입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\10주차\Week10\HW5_1\HW5_1.c(146,18): warning C4101: 'e6' :참조되지 않은 지역 변수입니다.

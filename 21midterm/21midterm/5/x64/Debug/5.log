@@ -1,0 +1,4 @@
+﻿  5.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\21midterm\21midterm\5\5.c(116,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\21midterm\21midterm\5\5.c(148,10): warning C4098: 'preorder_iter': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\21midterm\21midterm\5\5.c(97): fatal  error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.

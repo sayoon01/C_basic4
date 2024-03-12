@@ -1,0 +1,6 @@
+﻿  배열을이용한원형큐.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_queue\배열을이용한(원형)큐\배열을이용한원형큐.c(52,3): warning C4033: 'dequeue'은(는) 값을 반환해야 합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_queue\배열을이용한(원형)큐\배열을이용한원형큐.c(65,3): warning C4033: 'peek'은(는) 값을 반환해야 합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_queue\배열을이용한(원형)큐\배열을이용한원형큐.c(69): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_queue\배열을이용한(원형)큐\배열을이용한원형큐.c(59): warning C4715: 'dequeue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  배열을이용한(원형)큐.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_queue\x64\Debug\배열을이용한(원형)큐.exe

@@ -1,0 +1,6 @@
+﻿  HW1_3.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\HW1_3\HW1_3.c(205,7): warning C4013: 'get_weight'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\HW1_3\HW1_3.c(239,14): warning C4098: 'display': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\HW1_3\HW1_3.c(260,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\HW1_3\HW1_3.c(266,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\HW1_3\HW1_3.c(272,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

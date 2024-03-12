@@ -1,0 +1,3 @@
+﻿  review1.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\2주차\Week2\review1\review1.c(58,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  review1.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\자료구조\2주차\Week2\x64\Debug\review1.exe

@@ -1,0 +1,3 @@
+﻿  2.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\midterm\midterm\2\2.c(63,16): warning C4098: 'dinsert_sorted': 'void' 함수에서 값을 반환하고 있습니다.
+  2.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\자료구조\midterm\midterm\x64\Debug\2.exe

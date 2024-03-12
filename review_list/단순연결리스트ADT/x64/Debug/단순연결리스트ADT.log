@@ -1,0 +1,5 @@
+﻿  단순연결리스트ADT.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_list\단순연결리스트ADT\단순연결리스트ADT.c(89,12): warning C4101: 'removed' :참조되지 않은 지역 변수입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_list\단순연결리스트ADT\단순연결리스트ADT.c(168,46): warning C4101: 'head4' :참조되지 않은 지역 변수입니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_list\단순연결리스트ADT\단순연결리스트ADT.c(168,37): warning C4101: 'head3' :참조되지 않은 지역 변수입니다.
+  단순연결리스트ADT.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\자료구조\review_list\x64\Debug\단순연결리스트ADT.exe

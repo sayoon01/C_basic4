@@ -1,0 +1,4 @@
+﻿  linkedListADT.c
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\linkedListADT\linkedListADT.c(166,30): warning C4047: '함수': 'ListNode *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\linkedListADT\linkedListADT.c(166,29): warning C4024: 'insert_next': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  linkedListADT.vcxproj -> C:\Users\윤상아\OneDrive\바탕 화면\자료구조\4주차\Week4\x64\Debug\linkedListADT.exe
